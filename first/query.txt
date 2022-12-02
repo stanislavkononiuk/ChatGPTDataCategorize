@@ -1,0 +1,15 @@
+Which of these  'Business - General', 'Business - Accounting', 'Business - Administration', 'Business - Customer Relations', 'Business - Intelligence', 'Business - Marketing', 'Business - Operations', 'Business - Project Management', 'Business - Sales', 'Communication & Scheduling - General', 'Communication & Scheduling - Calendars', 'Communication & Scheduling - Chats & IMs', 'Communication & Scheduling - Email', 'Communication & Scheduling - Meetings', 'Design & Composition - General', 'Design & Composition - 3D Graphic Design', 'Design & Composition - Audio Editing', 'Design & Composition - Engineering & Drafting', 'Design & Composition - Graphic Design', 'Design & Composition - Presentation', 'Design & Composition - Video Editing', 'Design & Composition - Writing', 'Entertainment - General', 'Entertainment - Adult', 'Entertainment - Audio & Video', 'Entertainment - Gambling', 'Entertainment - Games', 'Entertainment - Humor & Comedy', 'Entertainment - Photos', 'News & Opinion - General', 'News & Opinion - Business', 'News & Opinion - Entertainment', 'News & Opinion - International', 'News & Opinion - Regional', 'News & Opinion - Science & Technology', 'News & Opinion - Society', 'News & Opinion - Sports', 'Reference & Learning - General', 'Reference & Learning 
+- Business & Finance', 'Reference & Learning - Drugs & Tobacco', 'Reference & Learning - Employment', 'Reference & Learning - Engineering & Technology', 'Reference & Learning - Food', 'Reference & Learning - Health & Medicine', 'Reference & Learning - Legal & Govt', 'Reference & Learning - Maps & Regional', 'Reference & Learning - Pets', 'Reference & Learning - Religion', 'Reference & Learning - Search', 'Reference & Learning - Travel & Outdoors', 'Shopping - General', 'Shopping - Advertising', 'Shopping - Alcohol', 'Shopping - Clothes & Personal', 'Shopping - Electronics', 'Shopping - Guns & Weapons', 'Shopping - Office', 'Social Networking - General', 'Social Networking - Blog', 'Social Networking - Dating', 'Social Networking - Professional Networking', 'Software Development - General', 'Software Development - Data Modeling & Analysis', 'Software Development - Design & Planning', 'Software Development - Editing & IDEs', 'Software Development - Quality Assurance', 'Software Development - Systems Operations', 'Utilities & Threats - General', 'Utilities 
+& Threats - Anti-Virus', 'Utilities & Threats - Browsers', 'Utilities & Threats - File Sharing', 'Utilities & Threats - Internet Utilities', 'Utilities & Threats - Proxies', 'Utilities & Threats - Spyware & Phishing', 'Utilities & Threats - Virtualization'  is the best fit for 'SPBinder 1.0.10.45' ?
+SPBinder 1.0.10.45-None									"Software Development - General"
+SPBinder 1.0.10.47-"Software Development - Editing & IDEs"  				"Software Development - General"
+SPBinder 1.0.10.29-"Software Development - Utilities & Threats - Anti-Virus"            "Software Development - General" or "Software Development - Design & Planning"
+SPBinder 1.0.10.32-"Business - Operations"						Software Development - General"
+
+
+
+
+
+
+
+

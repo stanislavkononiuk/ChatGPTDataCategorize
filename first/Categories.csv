@@ -1,0 +1,76 @@
+id,purpose,level,purpose_level
+3,Business,General,Business - General
+3,Business,Accounting,Business - Accounting
+3,Business,Administration,Business - Administration
+3,Business,Customer Relations,Business - Customer Relations
+3,Business,Intelligence,Business - Intelligence
+3,Business,Marketing,Business - Marketing
+3,Business,Operations,Business - Operations
+3,Business,Project Management,Business - Project Management
+3,Business,Sales,Business - Sales
+13,Communication & Scheduling,General,Communication & Scheduling - General
+13,Communication & Scheduling,Calendars,Communication & Scheduling - Calendars
+13,Communication & Scheduling,Chats & IMs,Communication & Scheduling - Chats & IMs
+13,Communication & Scheduling,Email,Communication & Scheduling - Email
+13,Communication & Scheduling,Meetings,Communication & Scheduling - Meetings
+19,Design & Composition,General,Design & Composition - General
+19,Design & Composition,3D Graphic Design,Design & Composition - 3D Graphic Design
+19,Design & Composition,Audio Editing,Design & Composition - Audio Editing
+19,Design & Composition,Engineering & Drafting,Design & Composition - Engineering & Drafting
+19,Design & Composition,Graphic Design,Design & Composition - Graphic Design
+19,Design & Composition,Presentation,Design & Composition - Presentation
+19,Design & Composition,Video Editing,Design & Composition - Video Editing
+19,Design & Composition,Writing,Design & Composition - Writing
+28,Entertainment,General,Entertainment - General
+28,Entertainment,Adult,Entertainment - Adult
+28,Entertainment,Audio & Video,Entertainment - Audio & Video
+28,Entertainment,Gambling,Entertainment - Gambling
+28,Entertainment,Games,Entertainment - Games
+28,Entertainment,Humor & Comedy,Entertainment - Humor & Comedy
+28,Entertainment,Photos,Entertainment - Photos
+36,News & Opinion,General,News & Opinion - General
+36,News & Opinion,Business,News & Opinion - Business
+36,News & Opinion,Entertainment,News & Opinion - Entertainment
+36,News & Opinion,International,News & Opinion - International
+36,News & Opinion,Regional,News & Opinion - Regional
+36,News & Opinion,Science & Technology,News & Opinion - Science & Technology
+36,News & Opinion,Society,News & Opinion - Society
+36,News & Opinion,Sports,News & Opinion - Sports
+45,Reference & Learning,General,Reference & Learning - General
+45,Reference & Learning,Business & Finance,Reference & Learning - Business & Finance
+45,Reference & Learning,Drugs & Tobacco,Reference & Learning - Drugs & Tobacco
+45,Reference & Learning,Employment,Reference & Learning - Employment
+45,Reference & Learning,Engineering & Technology,Reference & Learning - Engineering & Technology
+45,Reference & Learning,Food,Reference & Learning - Food
+45,Reference & Learning,Health & Medicine,Reference & Learning - Health & Medicine
+45,Reference & Learning,Legal & Govt,Reference & Learning - Legal & Govt
+45,Reference & Learning,Maps & Regional,Reference & Learning - Maps & Regional
+45,Reference & Learning,Pets,Reference & Learning - Pets
+45,Reference & Learning,Religion,Reference & Learning - Religion
+45,Reference & Learning,Search,Reference & Learning - Search
+45,Reference & Learning,Travel & Outdoors,Reference & Learning - Travel & Outdoors
+59,Shopping,General,Shopping - General
+59,Shopping,Advertising,Shopping - Advertising
+59,Shopping,Alcohol,Shopping - Alcohol
+59,Shopping,Clothes & Personal,Shopping - Clothes & Personal
+59,Shopping,Electronics,Shopping - Electronics
+59,Shopping,Guns & Weapons,Shopping - Guns & Weapons
+59,Shopping,Office,Shopping - Office
+67,Social Networking,General,Social Networking - General
+67,Social Networking,Blog,Social Networking - Blog
+67,Social Networking,Dating,Social Networking - Dating
+67,Social Networking,Professional Networking,Social Networking - Professional Networking
+72,Software Development,General,Software Development - General
+72,Software Development,Data Modeling & Analysis,Software Development - Data Modeling & Analysis
+72,Software Development,Design & Planning,Software Development - Design & Planning
+72,Software Development,Editing & IDEs,Software Development - Editing & IDEs
+72,Software Development,Quality Assurance,Software Development - Quality Assurance
+72,Software Development,Systems Operations,Software Development - Systems Operations
+79,Utilities & Threats,General,Utilities & Threats - General
+79,Utilities & Threats,Anti-Virus,Utilities & Threats - Anti-Virus
+79,Utilities & Threats,Browsers,Utilities & Threats - Browsers
+79,Utilities & Threats,File Sharing,Utilities & Threats - File Sharing
+79,Utilities & Threats,Internet Utilities,Utilities & Threats - Internet Utilities
+79,Utilities & Threats,Proxies,Utilities & Threats - Proxies
+79,Utilities & Threats,Spyware & Phishing,Utilities & Threats - Spyware & Phishing
+79,Utilities & Threats,Virtualization,Utilities & Threats - Virtualization
